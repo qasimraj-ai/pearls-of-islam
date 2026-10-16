@@ -1,0 +1,17 @@
+{
+  "name": "Pearls Of Islam",
+  "short_name": "Pearls Of Islam",
+  "description": "Quran with qirat, prayer times with adhan, and prayer attendance.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6fbf8",
+  "theme_color": "#1f7a4d",
+  "categories": ["lifestyle", "education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
